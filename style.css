@@ -1,0 +1,26 @@
+ .container{
+    display: flex;
+    flex-direction: column;
+    align-items: center ;
+    justify-content: center;
+    height: 100vh;
+
+}
+#verificarIdadeBtn {
+
+    padding: 10px 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 16px; 
+    background-color: cadetblue;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+h1 {
+color:cadetblue;
+text-align: center;
+font-size: 24px; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+margin-bottom: 20px;
+}
